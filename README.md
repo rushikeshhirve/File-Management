@@ -7,10 +7,10 @@ This is a simple Node.js application for file management. It allows users to upl
 
 The application provides a web interface for users to perform various file management operations:
 
-- Upload: Users can upload files to the server using the provided form.
-- Delete: Users can delete uploaded files by clicking the "Delete" button next to each file.
-- Download: Users can download uploaded files by clicking the "Download" link next to each file.
-
+- **Upload:** Users can upload files to the server using the provided form.
+- **List Files:** The application also displays a list of uploaded files on the main page, allowing users to see the files currently stored on the server.
+- **Download:** Users can download uploaded files by clicking the "Download" button next to each file.
+- **Delete:** Users can delete uploaded files by clicking the "Delete" button next to each file.
 
 ## Getting Started
 
@@ -32,6 +32,3 @@ The application provides a web interface for users to perform various file manag
 ## Demo Screenshot
 
 ![File Management Application Demo](DemoScreenshot.png)
-
-
-
