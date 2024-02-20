@@ -53,4 +53,5 @@ body {
 
 .btn-file {
   align-self: flex-end;
+  cursor: pointer;
 }
